@@ -1,3 +1,5 @@
+> **Note:** This repository has been migrated to the [networklessons/labs](https://github.com/networklessons/labs/tree/main/containers/docker-alpine-cisco-yang-explorer/) monorepo. Please refer to the monorepo for the latest version.
+
 # About
 
 Container image that runs [Cisco Yang Explorer](https://github.com/CiscoDevNet/yang-explorer) on [Alpine](https://hub.docker.com/_/alpine). You can find the image on [docker hub](https://hub.docker.com/r/networklessons/docker-alpine-cisco-yang-explorer/).
